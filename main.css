@@ -1,0 +1,44 @@
+body {
+    background-color: bisque;
+    font-family: 'Source Code Pro', monospace;
+}
+.top {
+    font-size: 100px;
+    text-align: center;
+    margin-left: 150px;
+    height: 100px;
+}
+.frige {
+    width: 500px;
+    height: 800px;
+    background-color: lavenderblush;
+    margin-top: 200px;
+    margin-left: 700px;
+    border-radius: 50px;
+}
+.cool {
+    width: 480px;
+    height: 500px;
+    background-color: lightsteelblue;
+    border-radius: 50px;
+}
+.ice {
+    width: 480px;
+    height: 300px;
+    background-color: lightsteelblue;
+    border-radius: 50px;
+}
+.pantry {
+    width: 400px;
+    height: 300px;
+    background-color: lightgrey;
+    border-radius: 50px;
+    margin-top: 700px;
+    margin-left: 200px;
+    float: left;
+    display: inline;
+}
+.textbox {
+    font-size: 30px;
+    padding: 10px;
+}
